@@ -3,13 +3,13 @@
 
 ##MVP1 for Crossfit app
 
-#User stories
+##User stories
 
 * Before a crossfit workout, I want to review the WOD so that I have the equipment for the workout and can mentally prepare for the session
 
 * After I do my crossfit workout, I want to easily record my max weights lifted and Metcon results, so that I track my progress and improve results for my next workout
 
-* When I do my weightlifting movements, I want to see what my 1RM is so that I can beat my 1RM and accurately scale my training reps (at 60%, 70%, 80%, 90%, 100%) 
+* When I do my weightlifting movements, I want to see what my 1RM is so that I can beat my 1RM and accurately scale my training reps (at 60%, 70%, 80%, 90%, 100%)
 
 * When I do my weightlifting movements, I want to add notes on my performance (e.g. 3RM) so I can track my performance and improve on my last lifts.
 
@@ -30,6 +30,7 @@ Collaborators
 Project Planning
 ----------------
 
+<<<<<<< HEAD
 * Kanban board: https://waffle.io/cfapp/MVP1  
 * Project docs: https://drive.google.com/drive/u/0/folders/0B-HalME1opAZOHJWaDlnYVA5R0k  
 * Wireframes: https://marvelapp.com/ch153h#8321783/grid
@@ -46,7 +47,7 @@ Technologies
 Prerequisites
 -------------
 
-You will need the following installed locally:  
+You will need the following installed locally:
 
 * Node.js
 * NPM
@@ -73,7 +74,7 @@ For feature tests, run the following in the command line (from within the projec
 * ```ionic serve``` (unless already running)
 * ```webdriver-manager start```
 * ```protractor test/e2e/conf.js```
-=======
+
 To run feature tests:
 ```
 ionic serve --lab

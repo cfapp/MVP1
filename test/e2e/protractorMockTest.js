@@ -5,7 +5,7 @@ describe('MockTest', function() {
   });
 
   it('has a title', function() {
-    expect(browser.getTitle()).toEqual('Dashboard');
+    expect(browser.getTitle()).toEqual('WOD');
   });
 
 });

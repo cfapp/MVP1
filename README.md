@@ -18,9 +18,9 @@ Collaborators
 Project Planning
 ----------------
 
-Kanban board: https://waffle.io/cfapp/MVP1
-Project docs: https://drive.google.com/drive/u/0/folders/0B-HalME1opAZOHJWaDlnYVA5R0k
-Wireframes: https://marvelapp.com/ch153h#8321783/grid
+* Kanban board: https://waffle.io/cfapp/MVP1  
+* Project docs: https://drive.google.com/drive/u/0/folders/0B-HalME1opAZOHJWaDlnYVA5R0k  
+* Wireframes: https://marvelapp.com/ch153h#8321783/grid
 
 Technologies
 ------------

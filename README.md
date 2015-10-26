@@ -73,7 +73,7 @@ For feature tests, run the following in the command line (from within the projec
 * ```ionic serve``` (unless already running)
 * ```webdriver-manager start```
 * ```protractor test/e2e/conf.js```
-=======
+
 To run feature tests:
 ```
 ionic serve --lab

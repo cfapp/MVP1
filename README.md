@@ -2,7 +2,7 @@
 
 ##MVP1 for Crossfit app
 
-#User stories
+##User stories
 
 * Before a crossfit workout, I want to review the WOD so that I have the equipment for the workout and can mentally prepare for the session
 

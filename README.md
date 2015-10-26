@@ -1,6 +1,6 @@
 # MVP1
 
-## MVP1 for Crossfit app
+##MVP1 for Crossfit app
 
 User stories
 

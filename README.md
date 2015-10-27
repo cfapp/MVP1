@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/cfapp/MVP1.svg?branch=master)](https://travis-ci.org/cfapp/MVP1)
-[![Coverage Status](https://coveralls.io/repos/cfapp/MVP1/badge.svg)](https://coveralls.io/r/cfapp/MVP1)
+[![Build Status](https://travis-ci.org/cfapp/MVP1.svg?branch=Develop)](https://travis-ci.org/cfapp/MVP1)
 [![Code Climate](https://codeclimate.com/github/cfapp/MVP1/badges/gpa.svg)](https://codeclimate.com/github/cfapp/MVP1)
 [![Stories in Ready](https://badge.waffle.io/cfapp/MVP1.svg?label=ready&title=Ready)](http://waffle.io/cfapp/MVP1)
 
@@ -32,7 +31,6 @@ Collaborators
 Project Planning
 ----------------
 
-<<<<<<< HEAD
 * Kanban board: https://waffle.io/cfapp/MVP1  
 * Project docs: https://drive.google.com/drive/u/0/folders/0B-HalME1opAZOHJWaDlnYVA5R0k  
 * Wireframes: https://marvelapp.com/ch153h#8321783/grid
@@ -76,10 +74,3 @@ For feature tests, run the following in the command line (from within the projec
 * ```ionic serve``` (unless already running)
 * ```webdriver-manager start```
 * ```protractor test/e2e/conf.js```
-
-To run feature tests:
-```
-ionic serve --lab
-webdriver-manager start
-protractor test/e2e/conf.js
-```

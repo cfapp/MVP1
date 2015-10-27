@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/cfapp/MVP1.svg)](https://travis-ci.org/cfapp/MVP1)
 [![Coverage Status](https://coveralls.io/repos/cfapp/MVP1/badge.svg)](https://coveralls.io/r/cfapp/MVP1)
 [![Code Climate](https://codeclimate.com/github/cfapp/MVP1/badges/gpa.svg)](https://codeclimate.com/github/cfapp/MVP1)
+[![Stories in Ready](https://badge.waffle.io/cfapp/MVP1.svg?label=ready&title=Ready)](http://waffle.io/cfapp/MVP1)
 
 ##MVP1 for Crossfit app
 

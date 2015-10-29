@@ -4,7 +4,15 @@ angular.module('crossFitApp.services', [])
 
   var lifts = [{
     id: 0,
-    name: 'Back Squat'
+    name: 'Back Squat',
+    history: [{
+      date: '01.01.2015',
+      weight: 80
+    },
+    {
+      date: '07.01.2015',
+      weight: 85
+    }]
   },
   {
     id: 1,
@@ -60,7 +68,15 @@ angular.module('crossFitApp.services', [])
 return {
   all: function() {
     return lifts;
-  }
+  },
+  get: function(liftId) {
+      for (var i = 0; i < lifts.length; i++) {
+        if (lifts[i].id === parseInt(liftId)) {
+          return lifts[i];
+        }
+      }
+      return null;
+    }
 };
 
 });

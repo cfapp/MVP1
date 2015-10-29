@@ -1,8 +1,7 @@
-<ion-view view-title="CrossFitApp">
-  <ion-content>
-  <h1> Lifts </h1>
+<ion-view view-title="Lifts">
+  <ion-content class="padding">
     <ion-list>
-      <ion-item ng-repeat="lift in lifts" type="item-text-wrap">
+      <ion-item ng-repeat="lift in lifts" type="item-text-wrap" href="#/tab/personalBest/{{lift.id}}">
         <h2>{{lift.name}}</h2>
       </ion-item>
     </ion-list>

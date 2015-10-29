@@ -59,6 +59,15 @@ angular.module('CrossFitApp', ['ionic', 'crossFitApp.controllers', 'crossFitApp.
         }
       }
     })
+  .state('tab.lift-detail', {
+    url: '/personalBest/:liftId',
+    views: {
+      'tab-personalBest': {
+        templateUrl: 'templates/lift-detail.html',
+        controller: 'PersonalBestCtrl'
+      }
+    }
+  })
   .state('tab.trainingNotes', {
     url: '/trainingNotes',
     views: {

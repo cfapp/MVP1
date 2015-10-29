@@ -1,0 +1,15 @@
+<ion-view view-title="{{lift.name}}">
+  <ion-content class="center-content padding">
+    <ion-list>
+    <h1> PB History </h1>
+    <div class="row">
+        <div class="col">Date</div>
+        <div class="col">Weight(kg)</div>
+        </div>
+      <ion-item  class="row" ng-repeat="history in lift.history" type="item-text-wrap">
+        <h2 class="col">{{history.date}}</h2>
+        <h2 class="col">{{history.weight}}</h2>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
